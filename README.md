@@ -29,13 +29,13 @@ npm install
 ## Build the App
 
 ```bash
-docker-compose --build
+docker-compose build
 ```
 
 ## Run the App
 
 ```bash
-docker-compose -d
+docker-compose up -d
 ```
 
 ### Access the app in your browser:
